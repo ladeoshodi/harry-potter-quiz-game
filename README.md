@@ -52,8 +52,6 @@ You can access the live game [here](https://harry-potter-quiz-game.netlify.app/)
 
 - Navigation: Users can navigate between the Home page and the Leaderboard using the NavBar component with React Router.
 
-###### Maybe inclucde screenshots of the game pages
-
 ### Development Plan
 
 ##### Classic Mode
