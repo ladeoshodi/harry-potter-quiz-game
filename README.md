@@ -30,9 +30,27 @@ You can access the live game [here](https://harry-potter-quiz-game.netlify.app/)
 
   ![image](https://github.com/user-attachments/assets/cf2ea972-3d20-475b-a82c-ff1e9c9c91b7)
 
+  ![image](https://github.com/user-attachments/assets/3b0f0222-258e-4995-ac1f-0899b20738e0)
+
+
 - Start Game Component: Renders the game interface based on user inputs and contains the core game logic.
+
+  ![image](https://github.com/user-attachments/assets/ce32684c-6991-4ffd-a0fb-c66a5d5d4e33)
+
+  ![image](https://github.com/user-attachments/assets/230d1e25-e40c-49f6-baae-eb45dbcee5a3)
+
+
 - End Game Component: Displays the final score, updates the highscore leaderboard, and provides options to play again or change game modes.
-- Leaderboard: Shows the top 5 scores for each game mode and allows players to reset scores. 
+
+  ![image](https://github.com/user-attachments/assets/12a73ae2-a802-4edb-aed9-e052cec12f55)
+
+- Leaderboard: Shows the top 5 scores for each game mode and allows players to reset scores.
+
+  ![image](https://github.com/user-attachments/assets/973c560a-b7fc-4c34-aaca-e83609aa5d69)
+
+  ![image](https://github.com/user-attachments/assets/a5273a67-2ecb-4399-984c-b3ed98b4b74e)
+
+
 - Navigation: Users can navigate between the Home page and the Leaderboard using the NavBar component with React Router.
 
 ###### Maybe inclucde screenshots of the game pages
