@@ -26,10 +26,13 @@ You can access the live game [here](https://harry-potter-quiz-game.netlify.app/)
 
 ### Features
 
-- Landing Page: Provides an introduction to the game, allows players to input their name, and choose between game modes.
+- Landing Page: Provides an introduction to the game, and allows players to input their name, and choose between game modes.
+
+  ![image](https://github.com/user-attachments/assets/cf2ea972-3d20-475b-a82c-ff1e9c9c91b7)
+
 - Start Game Component: Renders the game interface based on user inputs and contains the core game logic.
 - End Game Component: Displays the final score, updates the highscore leaderboard, and provides options to play again or change game modes.
-- Leaderboard: Shows the top 5 scores for each game mode and allows players to reset scores. It uses a utility component, DisplayLeaderboard to support this.
+- Leaderboard: Shows the top 5 scores for each game mode and allows players to reset scores. 
 - Navigation: Users can navigate between the Home page and the Leaderboard using the NavBar component with React Router.
 
 ###### Maybe inclucde screenshots of the game pages
@@ -254,15 +257,12 @@ function setHighScore() {
 ### Framework Adaptation:
 
 - Challenge: Both developers had only one week of React experience, which presented a learning curve.
-- Consideration: Highlights the challenge of adapting to a new framework quickly and the importance of leveraging available resources and documentation to overcome initial hurdles.
+- Consideration: Highlights the challenge of quickly adapting to a new framework and the importance of leveraging available resources and documentation to overcome initial hurdles.
 
 ## Potential Future Features
 
 - Error Handling: Create an error page for incorrect routes and handle API 404 errors to improve user experience and prevent crashes or undefined states.
 - Mobile Navigation: Develop an interactive hamburger menu for menu items on mobile devices (for screens smaller than 1024px), enhancing usability and responsiveness on smaller screens.
-- Additional Game Modes: Expand the game by introducing new modes, such as a quiz where players match characters to their Hogwarts houses or test their knowledge on magical creatures.
+- Additional Game Modes: Expand the game by introducing new modes, such as a quiz where players match characters to their Hogwarts houses.
 - Enhanced API Integration: Integrate more comprehensive APIs or additional data sources to provide richer content and enhance gameplay diversity.
 
-```
-
-```
